@@ -150,6 +150,11 @@
         <p>Двигатель S62 был выдающимся на момент выхода, с мощностью 400 л.с. и крутящим моментом 500 Нм. Автомобиль мог разгоняться до 100 км/ч за 4.8 секунды, что делало его одним из самых быстрых седанов того времени.</p>
         <p>В 2003 году выпуск был завершён, и на тот момент автомобиль стал культовым среди поклонников BMW.</p>
     </div>
+    
+        <div class="gallery">
+    <img src="https://img.goodfon.ru/wallpaper/nbig/d/d5/bmw-e39-m5-2.webp" alt="BMW M5 E39">
+    <img src="https://content.onliner.by/news/1100x5616/f1bbbc74a24b566b860b85dd8e102cc1.jpeg" alt="Салон BMW M5 E39">
+</div>
 
     <!-- Характеристики -->
     <div class="content" id="specs">
@@ -181,6 +186,11 @@
             </tr>
         </table>
     </div>
+    
+    <div class="gallery">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BMW_M54B25_001.jpg/1200px-BMW_M54B25_001.jpg" alt="BMW M5 E39 мотор">
+    <img src="https://a.allegroimg.com/original/114c9e/86cff1874b8fa1537833688272c9/SKRZYNIA-BIEGOW-BMW-E39-HBA-14342569-3-0D-530D" alt="BMW M5 E39 мотор">
+</div>
 
     <!-- Особенности -->
     <div class="content" id="features">
@@ -215,6 +225,11 @@
             <li>Установка карбоновых деталей для снижения веса автомобиля и улучшения аэродинамики.</li>
         </ul>
     </div>
+    
+    <div class="gallery">
+    <img src="https://i.ytimg.com/vi/GBx8FseJrVU/maxresdefault.jpg" alt="BMW M5 E39 тюн">
+    <img src="https://i.auto-bild.de/ir_img/2/9/2/5/0/6/1/BMW-M5-E39-2869-6000x3369-38966cf447a7171b.jpg?impolicy=leadteaser" alt="BMW M5 E39 тюнинг">
+</div>
 
     <!-- Сравнение -->
     <div class="content" id="comparison">
@@ -234,12 +249,13 @@
             </tr>
         </table>
     </div>
-
-    <div class="gallery">
-    <img src="https://assets.avtocod.ru/storage/images/bmw-e39-10-min.jpg" alt="BMW M5 E39">
-    <img src="https://st3.depositphotos.com/27209332/36552/i/450/depositphotos_365527008-stock-photo-quezon-city-june-bmw-528.jpg" alt="BMW M5 E39 вид сбоку">
-    <img src="https://content.onliner.by/news/1100x5616/f1bbbc74a24b566b860b85dd8e102cc1.jpeg" alt="Салон BMW M5 E39">
+    
+        <div class="gallery">
+    <img src="https://images.pistonheads.com/nimg/46475/blobid0.jpg" alt="BMW M5 E39 тюн">
+    <img src="https://img.goodfon.ru/wallpaper/big/4/d4/mercedes-benz-e55-amg.webp" alt="BMW M5 E39 тюнинг">
+    <img src="https://img.carswp.com/audi/rs6/audi_rs6_2004_pictures_4_b.jpg" alt="BMW M5 E39 тюнинг">
 </div>
+
 
 <style>
     .gallery {
