@@ -88,25 +88,6 @@
             }
         }
 
-        /* Темная/светлая тема */
-        .dark-mode {
-            background-color: #121212;
-            color: white;
-        }
-        .light-mode {
-            background-color: white;
-            color: black;
-        }
-        .mode-toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: rgba(0, 0, 0, 0.6);
-            color: white;
-            padding: 10px;
-            cursor: pointer;
-            border-radius: 50%;
-        }
         /* Эффект параллакса для заголовков */
         .parallax {
             background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/5c/BMW_M5_E39_001.jpg');
@@ -125,9 +106,6 @@
     </style>
 </head>
 <body>
-
-<!-- Темная/светлая тема переключатель -->
-<div class="mode-toggle" onclick="toggleMode()">🌙</div>
 
 <header class="parallax">
     BMW M5 E39 – Все про легенду
