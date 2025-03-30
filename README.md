@@ -41,7 +41,7 @@
             transform: scale(1.1);
         }
         .container {
-            max-width: 1000px;
+            max-width: 1920px;
             margin: auto;
             padding: 80px 20px 20px;
         }
